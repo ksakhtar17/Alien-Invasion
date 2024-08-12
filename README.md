@@ -1,4 +1,6 @@
 # Alien-Invasion
+
+
 ## Introduction:
 Alien Invasion is a classic space shooter game where you control a ship to defend Earth from waves of alien invaders. The game is built using Python and the Pygame library, offering smooth gameplay, engaging graphics, and challenging levels.
 
@@ -10,8 +12,9 @@ Alien Invasion is a classic space shooter game where you control a ship to defen
 - Pause and Resume: Pause the game using the Escape key and resume where you left off.
 - Ship Movement: Control the ship with arrow keys to move left and right.
 - Shooting Mechanism: Fire bullets to shoot down aliens.
-- High Score Tracking: Your highest score is saved and displayed, ensuring that your best achievements are remembered.
 - Play Button: Start a new game with a click of a play button on the start screen.
+- High Score Tracking:Your highest score is automatically saved in a file named high_score.txt. The game will display the highest score 
+  at the top of the screen during gameplay.
 
 ## Installation:
 - Python 3
@@ -27,9 +30,6 @@ Alien Invasion is a classic space shooter game where you control a ship to defen
 - **Spacebar:** Fire bullets.
 - **Escape Key:** Pause/Resume the game.
 - **Q Key:** Quit the game.
-  
-## High Scores
-Your highest score is automatically saved in a file named high_score.txt. The game will display the highest score at the top of the     screen during gameplay.
   
 ## Developers:
 - Khadija Sehar
